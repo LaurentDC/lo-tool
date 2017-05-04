@@ -1,4 +1,4 @@
-/*eslint-env node*/
+/*eslint-en*/
 
 //------------------------------------------------------------------------------
 // hello world app is based on node.js starter application for Bluemix
